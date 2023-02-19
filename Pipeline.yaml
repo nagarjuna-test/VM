@@ -14,11 +14,11 @@ parameters:
   type: string
 
 - name: replication
-  displayName: 2
+  displayName: 1
   type: number
 
 - name: OffsetNumber
-  displayName: 2
+  displayName: 1
   type: number
 
 steps:
