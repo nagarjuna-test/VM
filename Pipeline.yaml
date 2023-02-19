@@ -10,15 +10,15 @@ pool:
 
 parameters:
 - name: vm_name
-  displayName: VM Name
+  displayName: Test VM
   type: string
 
 - name: replication
-  displayName: Number Of VMs need to spin-up
+  displayName: 2
   type: number
 
 - name: OffsetNumber
-  displayName: Offset number of VM
+  displayName: 2
   type: number
 
 steps:
